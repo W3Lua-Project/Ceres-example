@@ -3,3 +3,5 @@
 
 Импорт репозитория:
 `git clone https://github.com/W3Lua-Project/Ceres-example.git`
+
+Подключается файл example.lua
